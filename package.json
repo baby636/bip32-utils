@@ -34,7 +34,7 @@
   "dependencies": {
     "keccak": "^3.0.1",
     "nyc": "*",
-    "standard": "^11.0.1",
+    "standard": "^15.0.0",
     "tape": "*"
   },
   "engines": {
